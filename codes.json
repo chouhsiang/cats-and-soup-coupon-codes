@@ -1,56 +1,56 @@
 [
   {
-    "code": "2YRUPDATE",
+    "code": "2YRUPDATE"
   },
   {
-    "code": "HAPPY2YEAR",
+    "code": "HAPPY2YEAR"
   },
   {
-    "code": "THX2YEAR",
+    "code": "THX2YEAR"
   },
   {
-    "code": "THX5000CAT",
+    "code": "THX5000CAT"
   },
   {
-    "code": "10FRIDAY",
+    "code": "10FRIDAY"
   },
   {
-    "code": "5000HAPPYDAY",
+    "code": "5000HAPPYDAY"
   },
   {
-    "code": "BOO31CAT",
+    "code": "BOO31CAT"
   },
   {
-    "code": "AUTUMNCAT",
+    "code": "AUTUMNCAT"
   },
   {
-    "code": "2023GIVING",
+    "code": "2023GIVING"
   },
   {
-    "code": "BLACKCATFRI",
+    "code": "BLACKCATFRI"
   },
   {
-    "code": "DECCATLOVE",
+    "code": "DECCATLOVE"
   },
   {
-    "code": "GIFTFORYOU",
+    "code": "GIFTFORYOU"
   },
   {
-    "code": "2023XMASCAT",
+    "code": "2023XMASCAT"
   },
   {
     "code": "2024DRAGON",
     "start_at": "2024-01-02",
-    "expire_at": "2024-02-01",
+    "expire_at": "2024-02-01"
   },
   {
     "code": "WELOVECAT",
     "start_at": "2024-01-15",
-    "expire_at": "2024-02-01",
+    "expire_at": "2024-02-01"
   },
   {
     "code": "HAPPYEAR",
     "start_at": "2024-01-24",
-    "expire_at": "2024-02-01",
+    "expire_at": "2024-02-01"
   }
 ]
